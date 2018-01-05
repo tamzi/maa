@@ -6,14 +6,12 @@
   <h3 align="center">Maa</h3>
 
   <p align="center">
-    Robust, loaded, simple and sweet front-end framework for faster and easier web development.
+    Robust, packed, simple and sweet front-end framework for faster and easier web development.
     <br>
-    <a href="#"><strong>Explore maa docs »</strong></a>
+    <a href="https://github.com/tamzi/maa/wiki"><strong>Read maa docs</strong></a>
     <br>
     <br>
     <a href="#">Maa Themes</a>
-    ·
-    <a href="#">Job Board</a>
     ·
     <a href="#">Blog</a>
   </p>
