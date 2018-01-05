@@ -59,17 +59,18 @@ bootstrap/
 │   └── maa-flex.min.css
 └── js/
     ├── maa.js
-    ├── maa.min.js
-    ├── bootstrap.js
-    └── bootstrap.min.js
+    └── maa.min.js
 ```
 
 We provide compiled:
-    - CSS  (`maa.css`)
+
+    - CSS  (`maa.css`) 
     - Grid Layout files (`maa-grid.css`)
     - Flexbox Layout files (`maa-flex.css`)
     - Compiled and minified CSS files(`maa.min.*`).
+
 In the factory:
+
     - map files coming soon.
 
 ## Documentation
