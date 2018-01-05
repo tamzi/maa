@@ -59,7 +59,8 @@ bootstrap/
 │   └── maa-flex.min.css
 └── js/
     ├── maa.js
-    └── maa.min.js
+    ├── maa.min.js
+    └── sw.js
 ```
 
 We provide compiled:
