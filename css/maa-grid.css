@@ -1,0 +1,49 @@
+/*!
+ * maa Grid v0.1
+ * Copyright 2018 The maa Authors
+ * Licensed under MIT
+ */
+@charset "UTF-8";
+
+@-ms-viewport {
+  width: device-width;
+}
+
+html {
+    font-family: Segoe UI;
+    line-height: 1.15;
+
+}
+body{
+    margin: 0;
+}
+
+/*CONTAINER*/
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 576px) {
+  .container {
+    max-width: 546px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 728px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 962px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}

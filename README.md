@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tamzi/maa">
-    <img src="http://www.technoserve.org/files/maasai-women-launch-successful-dairy-business-elizabeth.jpg" alt="" width=72 height=72>
+    <img src="https://raw.githubusercontent.com/tamzi/maa/master/res/maa.jpg" alt="Maa" width=312 height=142>
   </a>
 
   <h3 align="center">Maa</h3>
@@ -11,8 +11,8 @@
     <a href="https://github.com/tamzi/maa/wiki"><strong>Read maa docs</strong></a>
     <br>
     <br>
-    <a href="#">Maa Themes</a>
-    ·
+    <a href="#">Download Maa Themes</a>
+    *
     <a href="#">Blog</a>
   </p>
 </p>
@@ -26,7 +26,6 @@
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Versioning](#versioning)
-- [Creator](#creator)
 - [License](#licens)
 
 ## Quick start
@@ -42,14 +41,14 @@ coming soon:
 - Install with [Composer](https://getcomposer.org/): `composer require tamzi/maa:0.1`
 
 
-Read the [Getting started page](https://getbootstrap.com/docs/4.0/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
+Read the [Getting started page](https://getmaa.com/docs/4.0/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
 
 ## What's included
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
-bootstrap/
+maa/
 ├── css/
 │   ├── maa.css
 │   ├── maa.min.css
@@ -78,9 +77,6 @@ In the factory:
 
 Maa's documentation can be found here: [maa wiki](https://github.com/tamzi/maa/wiki)
 
-### Documentation
-Coming soon
-
 ## Contributing
 
 Comming soon
@@ -90,16 +86,6 @@ Comming soon
 See:
     - [the Releases section of our GitHub project](https://github.com/tamzi/maa/releases) ,for changelogs for each release version of maa. 
     - [the official maa blog](#) contain summaries of the most noteworthy changes made in each release.
-
-
-## Creator
-
-**Frank Tamre**
-
-- [@tamrefrankl](https://twitter.com/tamrefrank)
-- [tamzi](https://github.com/tamzi)
-
-
 
 
 ## license
