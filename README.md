@@ -88,6 +88,11 @@ See:
     - [the official maa blog](#) contain summaries of the most noteworthy changes made in each release.
 
 
+Refrences
+1. [sloppy Elements](https://tympanus.net/codrops/2011/12/21/slopy-elements-with-css3/)
+2. Bootstrap
+
+
 ## license
 
 [![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](#)
