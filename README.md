@@ -88,9 +88,14 @@ See:
     - [the official maa blog](#) contain summaries of the most noteworthy changes made in each release.
 
 
-Refrences
-1. [sloppy Elements](https://tympanus.net/codrops/2011/12/21/slopy-elements-with-css3/)
-2. Bootstrap
+##### References
+1. Angled Rows:
+    1. [sloppy Elements](https://tympanus.net/codrops/2011/12/21/slopy-elements-with-css3/)
+    2. [Angled Edges](https://www.viget.com/articles/angled-edges-with-css-masks-and-transforms/)
+    
+2. Bootstrap 4
+3. FOundation
+4. Material Design Lite
 
 
 ## license
