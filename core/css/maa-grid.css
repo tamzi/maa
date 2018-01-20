@@ -89,8 +89,8 @@ body{
 /*room-1
 sm-room*/
 .room-1, .room-2, .room-3, .room-4, .room-5, .room-6, .room-7, .room-8, .room-9, .room-10, .room-11, .room-12, .room,
-.col-auto, .sm-room-1, .sm-room-2, .sm-room-3, .sm-room-4, .sm-room-5, .sm-room-6, .sm-room-7, .sm-room-8, .sm-room-9, .sm-room-10, .sm-room-11, .sm-room-12, .sm-room,
-.col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md,
+.room-auto, .smroom-1, .smroom-2, .smroom-3, .smroom-4, .smroom-5, .smroom-6, .smroom-7, .smroom-8, .smroom-9, .smroom-10, .smroom-11, .smroom-12, .smroom,
+.smroom-auto, .mdroom-1, .mdroom-2, .mdroom-3, .mdroom-4, .mdroom-5, .mdroom-6, .mdroom-7, .mdroom-8, .mdroom-9, .mdroom-10, .mdroom-11, .mdroom-12, .mdroom,
 .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg,
 .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl,
 .col-xl-auto {
