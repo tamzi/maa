@@ -92,8 +92,8 @@ sm-room*/
 .smroom-1, .smroom-2, .smroom-3, .smroom-4, .smroom-5, .smroom-6, .smroom-7, .smroom-8, .smroom-9, .smroom-10, .smroom-11, .smroom-12, .smroom, .smroom-auto,
 .mdroom-1, .mdroom-2, .mdroom-3, .mdroom-4, .mdroom-5, .mdroom-6, .mdroom-7, .mdroom-8, .mdroom-9, .mdroom-10, .mdroom-11, .mdroom-12, .mdroom, .mdroom-auto,
 .lgroom-1, .lgroom-2, .lgroom-3, .lgroom-4, .lgroom-5, .lgroom-6, .lgroom-7, .lgroom-8, .lgroom-9, .lgroom-10, .lgroom-11, .lgroom-12, .lgroom, .lgroom-auto,
-.col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl,
-.col-xl-auto {
+.xlroom-1, .xlroom-2, .xlroom-3, .xlroom-4, .xlroom-5, .xlroom-6, .xlroom-7, .xlroom-8, .xlroom-9, .xlroom-10, .xlroom-11, .xlroom-12, .xlroom,
+.xlroom-auto {
   position: relative;
   width: 100%;
   min-height: 1px;
