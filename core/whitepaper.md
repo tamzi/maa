@@ -1,5 +1,7 @@
 Wat is maa?
-    An advanced frontend framework with the following properties:
+    An advanced fully packed frontend framework with the following properties:
+    - Allows you to focus on building your product without the need for looking for all the css niceties everywhere.
+    - Has most sweet css features out of the box.
 
 inspiration:
     Uses the synomyms of constructing a building when developing the front end pages.
