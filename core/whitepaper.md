@@ -8,8 +8,10 @@ Terminologies:
     building: instead of loading
     blueprint insted of grid.
     
-?Various properties in the framework:
+?Various properties in the framework with reference to common names and terms:
     building: container
-    Floors: rows
+    floors: rows, 
+    slanted-floor: divs that are slanted
+    wavy-floor: 
     rooms: columns
     
