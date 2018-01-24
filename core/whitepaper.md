@@ -1,4 +1,4 @@
-Wat is maa?
+What is maa?
     An advanced fully packed frontend framework with the following properties:
     - Allows you to focus on building your product without the need for looking for all the css niceties everywhere.
     - Has most sweet css features out of the box.

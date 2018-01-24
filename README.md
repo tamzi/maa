@@ -94,7 +94,7 @@ See:
     2. [Angled Edges](https://www.viget.com/articles/angled-edges-with-css-masks-and-transforms/)
     
 2. Bootstrap 4
-3. FOundation
+3. Foundation
 4. Material Design Lite
 
 

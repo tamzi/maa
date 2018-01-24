@@ -14,8 +14,9 @@ body {
   background-color: #fff;
 }
 
+/*COMPONENTS*/
 level{
-   /* row*/
+   /* what you would ordinarily call row*/
 
 }
 
@@ -43,3 +44,14 @@ spacer{
 sticky-navbar{
 
 }
+
+cards{
+
+}
+
+badges{
+
+}
+
+
+
