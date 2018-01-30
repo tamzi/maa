@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tamzi/maa">
-    <img src="https://raw.githubusercontent.com/tamzi/maa/master/res/maa.jpg" alt="Maa" width=312 height=142>
+    <img src="https://raw.githubusercontent.com/tamzi/maa/master/core/res/maa.jpg" alt="Maa" width=312 height=142>
   </a>
 
   <h3 align="center">Maa</h3>
@@ -64,7 +64,7 @@ maa/
     └── sw.js
 ```
 
-We provide compiled:
+What it comes with compiled:
 
     - CSS  (`maa.css`) 
     - Grid Layout files (`maa-grid.css`)
@@ -95,8 +95,7 @@ See:
 ##### References
 1. Angled Rows:
     1. [sloppy Elements](https://tympanus.net/codrops/2011/12/21/slopy-elements-with-css3/)
-    2. [Angled Edges](https://www.viget.com/articles/angled-edges-with-css-masks-and-transforms/)
-    
+    2. [Angled Edges](https://www.viget.com/articles/angled-edges-with-css-masks-and-transforms/)    
 2. Bootstrap 4
 3. Foundation
 4. Material Design Lite
