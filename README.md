@@ -52,6 +52,8 @@ maa/
 ├── css/
 │   ├── maa.css
 │   ├── maa.min.css
+│   ├── maa-component.css
+│   ├── maa.typography.css
 │   ├── maa-grid.css
 │   ├── maa-grid.min.css
 │   ├── maa-flex.css
@@ -67,7 +69,9 @@ We provide compiled:
     - CSS  (`maa.css`) 
     - Grid Layout files (`maa-grid.css`)
     - Flexbox Layout files (`maa-flex.css`)
-    - Compiled and minified CSS files(`maa.min.*`).
+    - Compiled and minified CSS files(`maa.min.*`)
+    - TYpography in maa(maa-typography.css)
+    - Various plug and play css components(maa-component.css).
 
 In the factory:
 
