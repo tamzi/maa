@@ -70,7 +70,7 @@ What it comes with compiled:
     - Grid Layout files (`maa-grid.css`)
     - Flexbox Layout files (`maa-flex.css`)
     - Compiled and minified CSS files(`maa.min.*`)
-    - TYpography in maa(maa-typography.css)
+    - Typography in maa(maa-typography.css)
     - Various plug and play css components(maa-component.css).
 
 In the factory:
@@ -86,10 +86,9 @@ Maa's documentation can be found here: [maa wiki](https://github.com/tamzi/maa/w
 Comming soon
 
 ## Versioning
-
 See:
-    - [the Releases section of our GitHub project](https://github.com/tamzi/maa/releases) ,for changelogs for each release version of maa. 
-    - [the official maa blog](#) contain summaries of the most noteworthy changes made in each release.
+ - [The Releases section of our GitHub project](https://github.com/tamzi/maa/releases) ,for changelogs for each release version of maa. 
+ - [The official maa blog](#) contain summaries of the most noteworthy changes made in each release.
 
 
 ##### References
